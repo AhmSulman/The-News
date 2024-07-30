@@ -1,0 +1,7 @@
+﻿namespace News
+{
+    internal static class Settings
+    {
+        public static string NewsApiKey => "<REMOVED_NEWSAPI_KEY>";
+    }
+}
