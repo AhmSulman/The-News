@@ -2,6 +2,6 @@
 {
     internal static class Settings
     {
-        public static string NewsApiKey => "<REMOVED_NEWSAPI_KEY>";
+        public static string NewsApiKey => "<Your NewsAPI key here>";
     }
 }
